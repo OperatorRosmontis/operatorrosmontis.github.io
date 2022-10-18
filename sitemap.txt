@@ -1,2 +1,5 @@
+https://operatorrosmontis.github.io/about/index.html
+https://operatorrosmontis.github.io/categories/index.html
+https://operatorrosmontis.github.io/tags/index.html
 https://operatorrosmontis.github.io/2022/10/18/hello-world/
 https://operatorrosmontis.github.io/
